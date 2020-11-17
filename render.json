@@ -1,13 +1,9 @@
 {
-  "webhookKey": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-  "secretHash": "xxxxxxxxxxxxxxxxxxxx",
-  "event": "RENDER",
   "eventTime": "2020-10-10 12:34:56",
-  "historyId": 1001,
-  "botId": 180,
   "workspaceName": "動物園",
   "groupName": "GH GAS",
   "botName": "面談シート簡易版",
+  "historyId": 1001,
   "senderName": "面接官A",
   "data": {
     "日付": "2020年10月10日",
